@@ -1,0 +1,8 @@
+{
+    "name" : "kihyun",
+    "age" : 99,
+    "fruit" : ["apple", "banana"],
+    "person" : {
+        "a" : 3
+    }
+}

@@ -1,0 +1,16 @@
+1) aws.com 가입   (비밀번호 어렵게) ! // google otp 방법
+2) aws 카드등록 ( 해외결제가능카드 ) !
+3) aws ec2 만들기  no 
+4) aws rds 만들기  no
+
+5) github.com  !
+6) mysql 설치 //communiy ver??  // 선생님이 받은 파일과 다른 파일
+7) 복습
+
+Q
+
+1) google otp
+2) aws ec2, rds install
+3) my sql install
+
+git bash
